@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="app.employees" pk="1">
+        <field name="eno" type="IntegerField">1</field>
+        <field name="ename" type="CharField">venkat</field>
+        <field name="esal" type="IntegerField">2000</field>
+        <field name="eaddress" type="CharField">sullurupeta</field>
+    </object>
+    <object model="app.employees" pk="2">
+        <field name="eno" type="IntegerField">84</field>
+        <field name="ename" type="CharField">Kayla Shaffer</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">6547 Mcdonald Well Apt. 675
+Noblefort, CO 30498</field>
+    </object>
+    <object model="app.employees" pk="3">
+        <field name="eno" type="IntegerField">9</field>
+        <field name="ename" type="CharField">Abigail Porter</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">05132 Riley Forest Apt. 363
+Boltontown, MT 14549</field>
+    </object>
+    <object model="app.employees" pk="4">
+        <field name="eno" type="IntegerField">27</field>
+        <field name="ename" type="CharField">Jesse Snyder</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">29953 Corey Branch
+East Patrickview, PA 29457</field>
+    </object>
+    <object model="app.employees" pk="5">
+        <field name="eno" type="IntegerField">113</field>
+        <field name="ename" type="CharField">Stephen Black</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">Unit 1169 Box 2815
+DPO AA 01826</field>
+    </object>
+    <object model="app.employees" pk="6">
+        <field name="eno" type="IntegerField">145</field>
+        <field name="ename" type="CharField">Dorothy Hansen</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">507 Benjamin Lake
+Mcculloughchester, WY 54050</field>
+    </object>
+    <object model="app.employees" pk="7">
+        <field name="eno" type="IntegerField">105</field>
+        <field name="ename" type="CharField">Isaac Yoder</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">851 Samantha Street Suite 312
+Franciscobury, VA 81776</field>
+    </object>
+    <object model="app.employees" pk="8">
+        <field name="eno" type="IntegerField">174</field>
+        <field name="ename" type="CharField">David Wolf Jr.</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">344 Yang Terrace
+Lake Scott, DC 67922</field>
+    </object>
+    <object model="app.employees" pk="9">
+        <field name="eno" type="IntegerField">59</field>
+        <field name="ename" type="CharField">Mr. Bobby Arnold</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">990 Barr Lodge Apt. 068
+Charlestown, DC 42346</field>
+    </object>
+    <object model="app.employees" pk="10">
+        <field name="eno" type="IntegerField">176</field>
+        <field name="ename" type="CharField">Andrea Harding</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">46357 Melissa Flat
+New Jason, OH 70823</field>
+    </object>
+    <object model="app.employees" pk="11">
+        <field name="eno" type="IntegerField">94</field>
+        <field name="ename" type="CharField">Antonio Reed</field>
+        <field name="esal" type="IntegerField">12000</field>
+        <field name="eaddress" type="CharField">50592 Alicia Squares
+Huertaland, NJ 10917</field>
+    </object>
+    <object model="app.employees" pk="12">
+        <field name="eno" type="IntegerField">63</field>
+        <field name="ename" type="CharField">Allison Williams</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">76499 Michael Forge
+South Scott, GU 77931</field>
+    </object>
+    <object model="app.employees" pk="13">
+        <field name="eno" type="IntegerField">190</field>
+        <field name="ename" type="CharField">Andrea Singleton</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">2014 Taylor Views
+Lake Zoe, GA 48632</field>
+    </object>
+    <object model="app.employees" pk="14">
+        <field name="eno" type="IntegerField">87</field>
+        <field name="ename" type="CharField">Jacob Jones</field>
+        <field name="esal" type="IntegerField">140000</field>
+        <field name="eaddress" type="CharField">329 Goodwin Isle
+Martinborough, RI 45182</field>
+    </object>
+    <object model="app.employees" pk="15">
+        <field name="eno" type="IntegerField">180</field>
+        <field name="ename" type="CharField">Tracy Moore</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">54717 Coleman Crest Suite 732
+Bauermouth, NM 88816</field>
+    </object>
+    <object model="app.employees" pk="16">
+        <field name="eno" type="IntegerField">146</field>
+        <field name="ename" type="CharField">Jeffery Joseph</field>
+        <field name="esal" type="IntegerField">12000</field>
+        <field name="eaddress" type="CharField">4710 Perez Plain
+East Chad, TX 31779</field>
+    </object>
+    <object model="app.employees" pk="17">
+        <field name="eno" type="IntegerField">133</field>
+        <field name="ename" type="CharField">Shannon Huff</field>
+        <field name="esal" type="IntegerField">12000</field>
+        <field name="eaddress" type="CharField">USNS Erickson
+FPO AA 93221</field>
+    </object>
+    <object model="app.employees" pk="18">
+        <field name="eno" type="IntegerField">95</field>
+        <field name="ename" type="CharField">Cameron Rivera</field>
+        <field name="esal" type="IntegerField">130000</field>
+        <field name="eaddress" type="CharField">6310 Hall Streets
+Brandonmouth, MN 36088</field>
+    </object>
+    <object model="app.employees" pk="19">
+        <field name="eno" type="IntegerField">82</field>
+        <field name="ename" type="CharField">Jason Mccormick</field>
+        <field name="esal" type="IntegerField">12000</field>
+        <field name="eaddress" type="CharField">267 Susan Extension Apt. 632
+Kennethberg, AZ 19130</field>
+    </object>
+    <object model="app.employees" pk="20">
+        <field name="eno" type="IntegerField">15</field>
+        <field name="ename" type="CharField">Jesse Powell DDS</field>
+        <field name="esal" type="IntegerField">12000</field>
+        <field name="eaddress" type="CharField">PSC 8901, Box 7940
+APO AA 03503</field>
+    </object>
+    <object model="app.employees" pk="21">
+        <field name="eno" type="IntegerField">19</field>
+        <field name="ename" type="CharField">Amber Wilkins</field>
+        <field name="esal" type="IntegerField">10000</field>
+        <field name="eaddress" type="CharField">PSC 7035, Box 4981
+APO AE 28563</field>
+    </object>
+</django-objects>
